@@ -1,4 +1,4 @@
-let chatbotMsgList = ["Hi Check My Profile in github https://github.com/Aravindl1","Hi Check My Profile in LinkedIn https://www.linkedin.com/in/aravindl54",'Follow My instagram https://www.instagram.com/in/aravind.l'];
+let chatbotMsgList = ["Hi Check My Profile in github https://github.com/Aravindl1","Hi Check My Profile in LinkedIn https://www.linkedin.com/in/aravindl54",'Hi Follow My instagram https://www.instagram.com/in/aravind.l'];
 
 let chatContainerEl = document.getElementById("chatContainer");
 let userInputEl = document.getElementById("userInput");
